@@ -115,4 +115,5 @@ done
 ```
 
 ![image](https://github.com/cloudshit/fluentbit-proba/assets/39158228/bb2c0704-1d09-4707-b6d2-a7b1170a2325)
+![image](https://github.com/cloudshit/fluentbit-proba/assets/39158228/174ccc91-9489-4568-9303-b703ed5d15e8)
 
